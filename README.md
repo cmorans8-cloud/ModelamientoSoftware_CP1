@@ -3,7 +3,7 @@ Integración de trabajos prácticos experimentales 1 y 2.
 
 Carlos Morán Samaniego - Ing. de Software C2
 
-##Caso de Estudio: Sistema de gestión de almacén e inventario
+## Caso de Estudio: Sistema de gestión de almacén e inventario
 
 Logistock es un sistema orientado a la gestión y el control de inventarios, cuyo propósito es facilitar la administración de productos y apoyar las actividades relacionadas con su preparación, recolección y control. El sistema contempla diferentes roles de usuario, entre ellos el Preparador, encargado de recolectar los productos solicitados, y el Supervisor, responsable de controlar las operaciones y autorizar los ajustes de inventario cuando sea necesario.
 
