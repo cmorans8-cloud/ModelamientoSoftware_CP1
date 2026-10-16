@@ -1,7 +1,7 @@
 # ModelamientoSoftware_CP1
 Integración de trabajos prácticos experimentales 1 y 2.
 
-Carlos Morán Samaniego - Ing. de Software C2
+Carlos José Morán Samaniego - Ing. de Software C2
 
 ## Caso de Estudio: Sistema de gestión de almacén e inventario
 
